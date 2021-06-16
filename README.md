@@ -3,5 +3,5 @@ This is a modification I recently made to the RatRig VBcore3 3D printer.  I drew
 
 I will be placing all the models I used to mod this printer here over time.  You can find me on the Facebook Group, so post there if you have any questions.
 <p align="center">
-![alt text](https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/PrinterFront-SM.jpg)
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/PrinterFront-SM.jpg">
 </p>
