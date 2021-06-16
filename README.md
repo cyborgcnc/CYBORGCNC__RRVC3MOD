@@ -9,5 +9,5 @@ I will be placing all the models I used to mod this printer here over time.  You
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/IMG_1571-2.sm.jpg">
 </p>
 <p align="center">
-<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/IMG_1579-1.sm.jpg">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/IMG_1579-2.sm.jpg">
 </p>
