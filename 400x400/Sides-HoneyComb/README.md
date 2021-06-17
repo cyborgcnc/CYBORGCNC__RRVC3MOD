@@ -1,4 +1,4 @@
-#HoneyComb
+# HoneyComb Sides for Electronics
 
 As you can see, these are the sides I designed for placing on the sides of the electronics area.  These are for the 400mm Printer! (I might remix these later for other sizes,
 but for now, 400mm it is).
