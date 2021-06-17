@@ -6,6 +6,11 @@ but for now, 400mm it is).
 Pretty self explanatory as to how you mount them.  I have SPLIT UP the files, so that you can print them on a reasonably sized printer.  All you need is some 3mm screws, and
 3mm 30x30 T-nuts to mount them.
 
+The Left side, is made to accept an AC/Fuse combination plug, like the one you can find on Amazon.
+
+![image](https://user-images.githubusercontent.com/10377094/122431918-db6c8900-cf62-11eb-8cfb-8eb0695e62b1.png)
+
+
 <p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/400x400/Sides-HoneyComb/hcomb1.JPG">
 </p>
