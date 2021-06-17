@@ -20,5 +20,7 @@ The Left side, is made to accept an AC/Fuse combination plug, like the one you c
 
 ![image](https://user-images.githubusercontent.com/10377094/122432170-18388000-cf63-11eb-91ff-a1ebc86b0154.png)
 ![image](https://user-images.githubusercontent.com/10377094/122432252-2a1a2300-cf63-11eb-8586-b760602f49ab.png)
+![image](https://user-images.githubusercontent.com/10377094/122432409-48801e80-cf63-11eb-841c-940eb5c6491f.png)
+
 
 
