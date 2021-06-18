@@ -3,7 +3,7 @@ This is a modification I recently made to the RatRig Vcore3 3D printer.  I drew 
 
 I will be placing all the models I used to mod this printer here over time.  You can find me on the Facebook Group, so post there if you have any questions.
 
-If you like these mods, you can buy me a beer, of a cup of coffee!
+If you like these mods, you can buy me a beer, or a cup of coffee!
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VXUVGCPD7RFSA)
 
