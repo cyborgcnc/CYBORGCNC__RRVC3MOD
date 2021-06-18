@@ -4,7 +4,7 @@ This is a modification I recently made to the RatRig Vcore3 3D printer.  I drew 
 I will be placing all the models I used to mod this printer here over time.  You can find me on the Facebook Group, so post there if you have any questions.
 # Buy me a Beer (or a cup of Coffee!) :-)
 
-[![paypal](https://www.paypal.com/en_US/i/scr/pixel.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VXUVGCPD7RFSA)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VXUVGCPD7RFSA)
 
 <p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/PrinterFront-SM.jpg">
