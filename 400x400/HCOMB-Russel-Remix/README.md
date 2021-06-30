@@ -32,3 +32,16 @@ While these parts are notionally labeled as 'Left' one can, of course,
 simply mirror them in your slicer if you want to use them on the right
 hand side.
 
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/400x400/HCOMB-Russel-Remix/IMG_0197.JPG">
+</p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/400x400/HCOMB-Russel-Remix/IMG_0199.JPG">
+</p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/400x400/HCOMB-Russel-Remix/Back-Hcomb-Left-Half2-RJ45.png">
+</p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/400x400/HCOMB-Russel-Remix/IMG_20210630_090829.JPG">
+</p>
+
