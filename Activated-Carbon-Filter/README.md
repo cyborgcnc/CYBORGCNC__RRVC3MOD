@@ -19,3 +19,12 @@ panel.  You can see how all thesse components are installed in the pictures, and
 
 The Activated Carbon can easily be purchased from a number of places.  The way the Catridge is assembled is, one has to use some fine mesh material.  I used
 mesh that is normaly used for window screens, but really anything can be used, that allows the free movement of air.  This mesh material is glued and held in place by the retainer rings of the catridge.  As you can also see, the catridge has a square access hole at one of the sides, which is used to fill the catridge with Activated carbon.  You can then simply place a piece of tape over this to hold the carbon in place, and can easily be removed to replace the carbon.  Depending on the amount of printing you do, you will need to replace this every couple of months or so, but I have not done any extensive studies on the time frame (I welcome testing and suggestions).
+
+The HEPA filter I used is one that is normally used for air purifiers, and this was cut to size, to fit inside the HEPA filter retainer, which then mounts to the 120mm Blower Housing.  Here are the links where I purchased most of these items described:
+
+
+https://www.amazon.com/gp/product/B01KVX8RM8/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1
+
+https://www.amazon.com/dp/B00GKVNI8E?psc=1&ref=ppx_yo2_dt_b_product_details
+
+https://www.amazon.com/gp/product/B07V41X4RT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
