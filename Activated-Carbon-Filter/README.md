@@ -12,3 +12,7 @@ than likely sound like a jet engine, at 24V volts.  The blower I am using is rel
 The filter uses an "Activated Carbon Catridge" that gets installed inside the printer chamber, and with a bracket, this is fastened to the back electronics panel.
 In turn, there is also a HEPA filter bracket and assembly, that houses the filter duct, and the 24V blower.  This gets mounted on the backside of the Electronics
 panel.  You can see how all thesse components are installed in the pictures, and the whole thing is actually pretty straight forward and self-explanatory.
+
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/Activated-Carbon-Filter/Filter2.JPG">
+</p>
