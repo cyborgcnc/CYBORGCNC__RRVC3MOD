@@ -38,3 +38,5 @@ https://www.amazon.com/gp/product/B07V41X4RT/ref=ppx_yo_dt_b_search_asin_title?i
   <p align="center">
   <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/Activated-Carbon-Filter/Filter5.JPG">
   </p>
+  
+  This Filter will fit the 300mm and 500mm version of the printer HOWEVER the long "recirculating" Duct, would have to be made longer or shorter.  I have provided the STEP files, for you to remix in your favorite CAD package!
