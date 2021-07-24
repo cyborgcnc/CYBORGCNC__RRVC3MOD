@@ -30,6 +30,8 @@ What you will need:
 
 -4mm Steel Balls...you will need 12 (sourced from Amazon)
 
+-3mm Screws, for attaching the top Ring, and the Arms to the Linear Bearings
+
 The way you put these together is pretty self explanatory.
 
 Just look at the pictures, and you will be able to see how they go together.  Basically, the Steel Balls sit between each of the Steel Pins in the disks, and they are held in place by the magnets on the other side.
