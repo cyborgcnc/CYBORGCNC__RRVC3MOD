@@ -16,14 +16,25 @@ What you will need:
  
 -You will need to print the Rings.  These are comprised of Top Rings (you need three), Middle Rings (you need three) and Bottom Rings (you need three).
 
--Neodymium Magnets: 8mmx5mm
+-Neodymium Magnets: 8mmx5mm (you will need 12)
 
--Steel pins: 8mmx3mm (for the disks)
+-Steel pins: 8mmx3mm (for the disks, you will need 48..I sourced these from McMaster Carr)
 
--Steel Pins: 3mmx35 (you can use the original ones that came with the kit).  These are for the arms, and where the ball end of the table rests.
+-Steel Pins: 3mmx35 (you can use the original ones that came with the kit).  These are for the arms, and where the ball end of the table rests ^ of them).
 
 -Magnets for the Arms: Use the ones that came with the printer, in the original arms.
 
--TR8x4 Nut (can be anti-backlash if you want)
+-TR8x4 Nut (can be anti-backlash if you want..3, opne for each ball screw))
 
 -Heat Inserts (To attach to the Arms, which is used for attaching the TOP Rings to the Arms). I used 4x5.5 M3..so the SHORT M3 Heat Inserts.
+
+-4mm Steel Balls...you will need 12 (sourced from Amazon)
+
+The way you put these together is pretty self explanatory.
+
+Just look at the pictures, and you will be able to see how they go together.  Basically, the Steel Balls sit between each of the Steel Pins in the disks, and they are held in place by the magnets on the other side.
+PAY ATTENTION: to mount that magnets in a way that they ATTRACT each other, and NOT repel!
+
+NOTE ON BACKLASH:  Since the steel balls sit between the steel pins this does two things.  It prevents any backlash, but in even more importantly, it allows the screw to spin, without the friction in the screw pushing the rings out of alignment.  What makes this possible is obviously the steel pins and balls, but also the WEIGHT of the table!  Even at a pretty fast Z axis homing routine, I never had an issue where the rings would go out of alignment.
+
+ON SCREW ALIGNMENT:  Your lead screws would still need to be aligned with the rail and the stepper shaft!  These rings DO NOT change this requirement.  Reason for this is, that IF the screws are not aligned, and now they are free to move more, as the stepper turns, there is the potential of the screws whipping around!  This would cause them to wobble a lot, causing a lot of noise, and not a situation you want to be in.  A future improvement to this system would be to create a small bracket that would go over the linear rail on the top of each screw.  In this bracket, we would then fit a bearing, which would restrain (in a lose manner) the screw at the top.  This would allow one to have the screws not perfectly aligned, but still retain all the benefits of this system.  I am in the process of designing these brackets, and I will post them here as well shortly.
