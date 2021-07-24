@@ -40,3 +40,14 @@ PAY ATTENTION: to mount that magnets in a way that they ATTRACT each other, and 
 NOTE ON BACKLASH:  Since the steel balls sit between the steel pins this does two things.  It prevents any backlash, but in even more importantly, it allows the screw to spin, without the friction in the screw pushing the rings out of alignment.  What makes this possible is obviously the steel pins and balls, but also the WEIGHT of the table!  Even at a pretty fast Z axis homing routine, I never had an issue where the rings would go out of alignment.
 
 ON SCREW ALIGNMENT:  Your lead screws would still need to be aligned with the rail and the stepper shaft!  These rings DO NOT change this requirement.  Reason for this is, that IF the screws are not aligned, and now they are free to move more, as the stepper turns, there is the potential of the screws whipping around!  This would cause them to wobble a lot, causing a lot of noise, and not a situation you want to be in.  A future improvement to this system would be to create a small bracket that would go over the linear rail on the top of each screw.  In this bracket, we would then fit a bearing, which would restrain (in a lose manner) the screw at the top.  This would allow one to have the screws not perfectly aligned, but still retain all the benefits of this system.  I am in the process of designing these brackets, and I will post them here as well shortly.
+
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBLE-RINGS/Back-Arm.JPG">
+</p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBLE-RINGS/Front-Arms.JPG">
+</p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBle-RINGS/Steel-Bearing.JPG">
+</p>
+
