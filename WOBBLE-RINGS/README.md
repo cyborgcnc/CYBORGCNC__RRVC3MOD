@@ -48,6 +48,6 @@ ON SCREW ALIGNMENT:  Your lead screws would still need to be aligned with the ra
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBLE-RINGS/Front-Arms.JPG">
 </p>
 <p align="center">
-<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBle-RINGS/Steel-Bearing.JPG">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBLE-RINGS/Steel-Bearing.JPG">
 </p>
 
