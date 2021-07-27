@@ -24,7 +24,7 @@ What you will need:
 
 -Magnets for the Arms: Use the ones that came with the printer, in the original arms.
 
--TR8x4 Nut (can be anti-backlash if you want..3, opne for each ball screw))
+-TR8x4 Nut (can be anti-backlash if you want..3, one for each ball screw))
 
 -Heat Inserts (To attach to the Arms, which is used for attaching the TOP Rings to the Arms). I used 4x5.5 M3..so the SHORT M3 Heat Inserts.
 
