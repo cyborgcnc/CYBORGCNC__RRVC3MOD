@@ -9,6 +9,8 @@ The original spool design, even though good, would be very prone to tangling of 
 
 You can use PTFE tubbing to guide the filament to the top of the printer, and for this I created some clips that you can print and use as required.  I would recommend a 3mm inside diameter for your PTFE tube, since most are running a direct drive extruder.  This will give you a “Reverse Bowden” configuration, with very little friction, and very good results.  You can see one of the pictures here how I mounted mine.  You can vary this as needed.
 
+Start Printing and Drying!! :-)
+
 <p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/SpoolHolder-Inside/Spool3.JPG">
 </p>
