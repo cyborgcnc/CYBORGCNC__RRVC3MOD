@@ -20,5 +20,5 @@ If you like these mods, you can buy me a beer, or a cup of coffee!
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/Electronics.jpg">
 </p>
 <p align="center">
-<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/SW-View1.jpg">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/SW-View1.JPG">
 </p>
