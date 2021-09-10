@@ -6,3 +6,8 @@ Marcel is on our FB group, and if you guys have any questions, I am sure he will
 
 THANK YOU Marcel for the awesome work!!
 
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/500x500/MARCEL-Remix-MODS/Panels/500_toplid.JPEG">
+</p>
+
+
