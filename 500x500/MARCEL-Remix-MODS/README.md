@@ -9,5 +9,8 @@ THANK YOU Marcel for the awesome work!!
 <p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/500x500/MARCEL-Remix-MODS/Panels/500_toplid.JPEG">
 </p>
+<p align="center">
+<img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/500x500/MARCEL-Remix-MODS/Panels/500_toplid2.JPEG">
+</p>
 
 
