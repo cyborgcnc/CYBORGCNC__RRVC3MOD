@@ -32,6 +32,8 @@ What you will need:
 
 -3mm Screws, for attaching the top Ring, and the Arms to the Linear Bearings
 
+-20x8mm Bearing for the front and Back support Brackets (Top bearings to support the lead screws and keep them from whipping)
+
 The way you put these together is pretty self explanatory.
 
 Just look at the pictures, and you will be able to see how they go together.  Basically, the Steel Balls sit between each of the Steel Pins in the disks, and they are held in place by the magnets on the other side.
@@ -39,7 +41,7 @@ PAY ATTENTION: to mount that magnets in a way that they ATTRACT each other, and 
 
 NOTE ON BACKLASH:  Since the steel balls sit between the steel pins this does two things.  It prevents any backlash, but in even more importantly, it allows the screw to spin, without the friction in the screw pushing the rings out of alignment.  What makes this possible is obviously the steel pins and balls, but also the WEIGHT of the table!  Even at a pretty fast Z axis homing routine, I never had an issue where the rings would go out of alignment.
 
-ON SCREW ALIGNMENT:  Your lead screws would still need to be aligned with the rail and the stepper shaft!  These rings DO NOT change this requirement.  Reason for this is, that IF the screws are not aligned, and now they are free to move more, as the stepper turns, there is the potential of the screws whipping around!  This would cause them to wobble a lot, causing a lot of noise, and not a situation you want to be in.  A future improvement to this system would be to create a small bracket that would go over the linear rail on the top of each screw.  EDIT: I HAVE DESIGNED THIS BARCKET, and you can download it from ther files above).  In this bracket, we would then fit a bearing, which would restrain (in a lose manner) the screw at the top.  This would allow one to have the screws not perfectly aligned, but still retain all the benefits of this system.  I am in the process of designing these brackets, and I will post them here as well shortly.
+ON SCREW ALIGNMENT:  Your lead screws would still need to be aligned with the rail and the stepper shaft!  These rings DO NOT change this requirement.  Reason for this is, that IF the screws are not aligned, and now they are free to move more, as the stepper turns, there is the potential of the screws whipping around!  This would cause them to wobble a lot, causing a lot of noise, and not a situation you want to be in.  A future improvement to this system would be to create a small bracket that would go over the linear rail on the top of each screw.  EDIT: I HAVE DESIGNED THIS BARCKET, and you can download it from ther files above.  The front is a mirror of each other, so print one, and then print a mirror for the left and right front led screws).  In this bracket, we would then fit a bearing, which would restrain (in a lose manner) the screw at the top.  This would allow one to have the screws not perfectly aligned, but still retain all the benefits of this system.  I am in the process of designing these brackets, and I will post them here as well shortly.
 
 <p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/WOBBLE-RINGS/Back-Arm.JPG">
