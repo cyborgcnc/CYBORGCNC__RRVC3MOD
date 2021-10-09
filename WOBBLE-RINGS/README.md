@@ -18,9 +18,9 @@ What you will need:
 
 -Neodymium Magnets: 8mmx5mm (you will need 12)
 
--Steel pins: 8mmx3mm (for the disks, you will need 48..I sourced these from McMaster Carr)
+-Steel pins: 3mm diameter x 8mm long (for the disks, you will need 48..I sourced these from McMaster Carr)
 
--Steel Pins: 3mmx35 (you can use the original ones that came with the kit).  These are for the arms, and where the ball end of the table rests ^ of them).
+-Steel Pins: 3mm diameter x 35mm long (you can use the original ones that came with the kit).  These are for the arms, and where the ball end of the table rests ^ of them).
 
 -Magnets for the Arms: Use the ones that came with the printer, in the original arms.
 
