@@ -1,7 +1,7 @@
 
 <h1 align="center">CARBON HEPA FILTER </h1>
 
-I wanted to design a filter for my 400mm build, that will allow me to print materials like ABS/ASA/PC etc. and be able to filter Particulate matter.
+I wanted to design a filter for my 400mm build (Jannik, has also remixed the Duct for a 300mm), that will allow me to print materials like ABS/ASA/PC etc. and be able to filter Particulate matter.
 I did not want to design one that would vent the air to outside, as I wanted to keep all the hot air in the chamber, and this lead me to designing one
 that is re-circulating the air.  For the most part, I think I achieved this, and so far, I have good results with this filter.
 
