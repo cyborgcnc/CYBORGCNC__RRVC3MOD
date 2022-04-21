@@ -5,8 +5,6 @@ In this section I will detail the modifications I did to use a CAN bus tool Head
 <p align="left">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-1.jpg">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-2.jpg">
-</p>
-<p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-3.jpg">
 </p>
 <p align="center">
