@@ -24,7 +24,7 @@ You connect the UTOC-1 to the USB board of the Rpi.  Then, you run the TWO Can l
 
 -Make sure your Rpi recognizes the UTOC-1 board, and that it sees a can0 interface.  Read the Klipper docs on Canbus, that walk you through this.  Doing an "ifconfig -a" on the cli, should show you the port.
 
--Now, follow the instructions on the Mellow/Fly site, to Flash the tool head with Klipper, and then use their example config, to modify your klipper config.  you are basically done.  [LINK to MELLOW/FLY Instructions] (https://mellow.klipper.cn/?spm=a2g0o.detail.1000023.73.7d0d62ce6fX67l#/board/fly_sht36_42/)
+-Now, follow the instructions on the Mellow/Fly site, to Flash the tool head with Klipper, and then use their example config, to modify your klipper config.  you are basically done. (https://mellow.klipper.cn/?spm=a2g0o.detail.1000023.73.7d0d62ce6fX67l#/board/fly_sht36_42/)
 
 I am not going to go through a step by step install here, but find me on the FB group, and I would be more than glad to answer any questions....
 
