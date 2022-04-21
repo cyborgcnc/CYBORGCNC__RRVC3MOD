@@ -6,6 +6,8 @@ As you can see, since I am running an enclosed chamber, I tried to design a moun
 tool head.  Mellow provides also ALL the connectors, as well as a heatsink, that gets mounted on top of the 2209.  I have to say, their quality is really good, and they 
 did a good job on this board (time will tell for sure)
 
+The pictures below, along with a couple of renderings, should be very self explanatory, as to how it all fits together.  I am using dual blowers for mine, and hence this is the way I modified the back plate of EVA.  You will need to remix or make other modifications if you are using a different setup.  At this point, I am NOT planning on modifying any other EVA mounts.
+
 <p align="left">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-1.jpg">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-2.jpg">
