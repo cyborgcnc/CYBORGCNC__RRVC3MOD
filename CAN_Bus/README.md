@@ -7,13 +7,8 @@ In this section I will detail the modifications I did to use a CAN bus tool Head
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-2.jpg">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-3.jpg">
 </p>
-<p align="center">
+<p align="left">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-4.jpg">
-</p>
-
-<p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/Render.new.3.jpg">
-</p>
-<p align="center">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/Render.new.1.jpg">
 </p>
