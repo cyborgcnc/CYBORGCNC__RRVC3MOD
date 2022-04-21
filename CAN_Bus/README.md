@@ -10,6 +10,10 @@ The pictures below, along with a couple of renderings, should be very self expla
 
 I addition, you will also see, that I am using the UTOC-1 USB to CAN bus board from mellow.  This board basically plugs into the Rpi, and then gives a can0 port to the pi.  All communications on the CAN bus, then happen over this board.  If you only have ONE tool head, you can connect the SHT42 directly to the USB port, and then run a USB cable to the tool head (and separate 24V power).  Nothing wrong with doing this, and you will NOT need the UTOC board.  I have NOT tested this.  The only draw back to this, is you need to use a good shielded USB cable, and if in the future, lets us say, you need ANOTHER tool board, you will need to go back to CAN Bus and UTOC board.  I would strongly suggest you use 24V (and most use this) but your mileage will vary with 12v.  The SHT42 is rated to 9Amps total.  Plenty to run heaters and fans etc.  Again, POWER is POWER...do the math on what components you have and how much you need (the magic smoke will stay hidden).
 
+You will need: The boards from Mellow, a 25x7 24V fan, 4-m3x20, 2-M3x8, 2-M3x16 and 2-M3x10 Screws (or what ever you have around, to mount it all).  Again, look at the pictures below to see how it all fits together.  The fan mounts to the duct, and then there is a retainer for the top, which then mounts to the cover.  I tried to play around with different orientations, and this made the most sense.
+
+YOU WILL NOTICE, that if you have a BLtouch, I extended the connectors for that to the side.  This was simply done, bu soldering short cables, and then terminating them to a JST connector.  Again, the pictures below make this obvious.  I did this, because simply there would have been a place to mount the fan, and keep all of it rather neat.
+
 <p align="left">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-1.jpg">
 <img src="https://github.com/cyborgcnc/CYBORGCNC__RRVC3MOD/blob/main/CAN_Bus/CANBUS-2.jpg">
