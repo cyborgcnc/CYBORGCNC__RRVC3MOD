@@ -1,6 +1,6 @@
 <h1 align="center">CAN Bus Modifications and Info</h1>
 
-In this section I will detail the modifications I did to use a CAN bus tool Head for the Vcore3, and will also post the way I modified the EVA catridge to mount everything.  The product that I used, is the Mellow/FLY SHT42 board.  THey have two versions, I chose the SHT42, but both are pretty much identical in functionality.  I have included therr STEP files, so feel free to modify as needed, if you need to make changes to the way I mounted mine.
+In this section I will detail the modifications I did to use a CAN bus tool Head for the Vcore3, and will also post the way I modified the EVA catridge to mount everything.  The product that I used, is the Mellow/FLY SHT42 board (https://www.aliexpress.com/item/1005004048980837.html).  They have two versions, I chose the SHT42, but both are pretty much identical in functionality.  I have included therr STEP files, so feel free to modify as needed, if you need to make changes to the way I mounted mine.
 
 As you can see, since I am running an enclosed chamber, I tried to design a mount that will also incorporate a fan, so that I can cool the 2209 driver that is on the
 tool head.  Mellow provides also ALL the connectors, as well as a heatsink, that gets mounted on top of the 2209.  I have to say, their quality is really good, and they 
@@ -22,7 +22,7 @@ Wiring it all could not be simpler:
 
 You connect the UTOC-1 to the USB board of the Rpi.  Then, you run the TWO Can lines, and 24V power to the toolboard.  You then connect all the fans/BLtouch/Endstops/Thermistor/Heater to the tool board.  4 Wires from your electronics to the extruder/tool head, can't beat that!  You will have to do the following to now make it all work:
 
--Make sure your Rpi recognizes the UTOC-1 board, and that it sees a can0 interface.  Read the Klipper docs on Canbus, that walk you through this.  Doing an "ifconfig -a" on the cli, should show you the port.
+-Make sure your Rpi recognizes the UTOC-1 board, and that it sees a can0 interface.  Read the Klipper docs on Canbus, that walk you through this.  Doing an "ifconfig -a" on the cli, should show you the port. (https://www.klipper3d.org/CANBUS.html)
 
 -Now, follow the instructions on the Mellow/Fly site, to Flash the tool head with Klipper, and then use their example config, to modify your klipper config.  you are basically done. (https://mellow.klipper.cn/?spm=a2g0o.detail.1000023.73.7d0d62ce6fX67l#/board/fly_sht36_42/)
 
