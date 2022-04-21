@@ -1,3 +1,3 @@
 <p align="center">
-# CAN Modifications and Information
+<h1 align="center">CAN Bus Modifications and Info</h1>
 </p>
